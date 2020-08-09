@@ -1,4 +1,4 @@
-class FancyDance
+module FancyDance
   def twirl
     "I'm twirling!"
   end
